@@ -51,6 +51,6 @@ jobs:
       timeout-minutes: 5
       shell: bash
       run: |
-        pytest test
+        pytest test.py
 
 
